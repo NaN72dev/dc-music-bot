@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         token: process.env.DISCORD_TOKEN || 'xxx',
-        playing: process.env.DISCORD_STATUS_PLAYING,
+        playing: process.env.DISCORD_STATUS_PLAYING || "Nothing",
         global: false,
         guild: process.env.GUILD_ID || 'xxx',
         extraMessages: false,
