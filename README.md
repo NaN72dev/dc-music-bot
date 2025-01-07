@@ -96,6 +96,8 @@ Advanced configuration (only change if you know what you are doing)
 - `opt/discordPlayer`, options used by discord-player
 
 ### 📑 Installation
+![](bot-intents.png)
+
 To use the project correctly you will need some tools.
 
 WARNING: You MUST use Node.js version `v18.20.2`, otherwise, you will encounter major compatibility issues.
